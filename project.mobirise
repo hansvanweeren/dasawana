@@ -424,7 +424,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -440,8 +440,8 @@
           },
           "title1": "Room #3",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Room #3 heeft een leuk terras aan de voorzijde, uitkijkend op de vijver en het zwembad. Een aparte badkamer met toilet en een separate ruimte met koelkast.<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption1": "Room #3 heeft een leuk terras aan de voorzijde, uitkijkend op de vijver en het zwembad. Een aparte badkamer met toilet en een separate ruimte met koelkast. Meer fotos vivan deze kamer vindt u bij de boekings pagina.&nbsp;<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x444.jpg",
@@ -457,7 +457,7 @@
           "title2": "Bungalow #1",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Bungalow #1 beschikt over een aparte slaapkamer. in de living is een keukenblok. een aparte badkamer",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
