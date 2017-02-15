@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dasawana",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 8,
+    "uniqCompNum": 11,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -490,6 +490,36 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>PHOTOS RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"background-color: rgb(40, 40, 40); line-height: 1.5; display: inline !important;\">CONTACT</a><br><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"background-color: rgb(40, 40, 40); line-height: 1.5; display: inline !important;\"><br><br>HOME<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-8",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-a",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<blockquote><b>Contactgegevens</b></blockquote><blockquote><br></blockquote><blockquote>Voor informatie, prijsaanvragen, beschikbaarheid, reserveringen of definitieve boekingen:&nbsp;</blockquote><blockquote><br></blockquote><blockquote>Roy Kooymans</blockquote><blockquote>rmkooymans@gmail.com</blockquote><blockquote>+31 655713021</blockquote><blockquote>+31 165855396</blockquote><blockquote>U kunt ook rechtstreeks reserveren met het reserveringsformulier.</blockquote><blockquote>Ook kunt u contact opnemen met:&nbsp;</blockquote><blockquote>Dhr. Dick van Zanten</blockquote><blockquote>tel. nr. 030-2446014</blockquote><blockquote><br></blockquote><blockquote>Dhr. John van ´t Oever</blockquote><blockquote>Tel. nr. 010-4741581</blockquote><blockquote><p><br></p><p><br></p><p><br></p><p>Adresgegevens:&nbsp;</p></blockquote><blockquote>Dasa Wana Resort</blockquote><blockquote>Jl. Raya Candidasa</blockquote><blockquote>Candidasa/Karangasem</blockquote><blockquote>Tel. +62 363 41444</blockquote>"
         }
       ]
     }
