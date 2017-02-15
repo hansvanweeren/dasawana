@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dasawana",
-    "currentPage": "photos.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -541,7 +541,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x4020.png",
+              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x4026.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -557,7 +557,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x4441.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x4447.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -573,7 +573,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/entrance-600x3962.jpg",
+              "src": "@PROJECT_PATH@/assets/images/entrance-600x3968.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -654,7 +654,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x4020.png",
+              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x4026.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -670,7 +670,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x4441.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x4447.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -686,7 +686,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/entrance-600x3962.jpg",
+              "src": "@PROJECT_PATH@/assets/images/entrance-600x3968.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -854,9 +854,10 @@
             "paddingBottom": "3",
             "bgColor": "#fff",
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "dasa wana resort, jl raya candidasa",
+              "placeId": "ChIJlfYwx9UO0i0RFl2_-ThA_bE",
+              "state": "ok",
+              "stateDetails": ""
             }
           }
         }
