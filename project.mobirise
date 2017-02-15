@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dasawana",
-    "currentPage": "info.html",
+    "currentPage": "photos.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -440,7 +440,7 @@
           },
           "title1": "Room #3",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Room #3 heeft een leuk terras aan de voorzijde, uitkijkend op de vijver en het zwembad. Een aparte badkamer met toilet en een separate ruimte met koelkast. Meer fotos vivan deze kamer vindt u bij de boekings pagina.&nbsp;<br><br>",
+          "caption1": "Room #3 heeft een leuk terras aan de voorzijde, uitkijkend op de vijver en het zwembad. Een aparte badkamer met toilet en een separate ruimte met koelkast. Meer fotos van deze kamer vindt u bij de boekings pagina.&nbsp;<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
