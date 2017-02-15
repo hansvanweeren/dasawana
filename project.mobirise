@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dasawana",
-    "currentPage": "photos.html",
+    "currentPage": "info.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -280,8 +280,8 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
-            "showArrow": true
+            "showButtons": false,
+            "showArrow": false
           },
           "media": {
             "image": {
