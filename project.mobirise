@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dasawana ",
-    "currentPage": "bungalow 1.html",
+    "currentPage": "photos.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -444,7 +444,7 @@
           },
           "title1": "Bungalow #1",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bungalow #1 beschikt over een aparte slaapkamer. in de living is een keukenblok. een aparte badkamer. Meer fotos van deze bungalow vindt u bij de boekings pagina.<br><br>",
+          "caption1": "Bungalow #1 beschikt over een aparte slaapkamer. in de living is een keukenblok. een aparte badkamer. Meer fotos van deze bungalow vindt u hieronder bij more info en bij de boekings pagina.<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"bungalow 1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">more info</a> <a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
@@ -545,7 +545,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x4029.png",
+              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x40212.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -561,7 +561,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44410.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44413.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -577,7 +577,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/entrance-600x39611.jpg",
+              "src": "@PROJECT_PATH@/assets/images/entrance-600x39614.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -658,7 +658,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x4029.png",
+              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x40212.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -674,7 +674,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44410.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44413.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -690,7 +690,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/entrance-600x39611.jpg",
+              "src": "@PROJECT_PATH@/assets/images/entrance-600x39614.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
