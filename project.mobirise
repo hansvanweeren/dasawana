@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dasawana ",
-    "currentPage": "index.html",
+    "currentPage": "info.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -95,10 +95,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -122,7 +122,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"background-color: rgb(40, 40, 40); line-height: 1.5; display: inline !important;\"><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HOME<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br>EN VIDEO<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>FOTOS <br>RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK <br>NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br><br>CONTACT<br>EN ADRES<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><br><br>HOME<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br>EN VIDEO<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>FOTOS <br>RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK <br>NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br><br>CONTACT<br>EN ADRES<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
         },
         {
           "_tags": [
@@ -180,13 +180,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#b8312f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#b8312f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#b8312f"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -198,16 +198,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#b8312f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -223,10 +223,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -250,7 +250,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"background-color: rgb(40, 40, 40); line-height: 1.5; display: inline !important;\"><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HOME<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br>EN VIDEO<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>FOTOS <br>RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK <br>NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br><br>CONTACT<br>EN ADRES<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><br><br>HOME<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br>EN VIDEO<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>FOTOS <br>RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK <br>NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br><br>CONTACT<br>EN ADRES<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
         },
         {
           "_inherit": "header2",
@@ -260,6 +260,9 @@
             },
             ".mbr-section-text": {
               "color": "#565656"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#28262b"
             }
           },
           "_tags": [
@@ -270,17 +273,17 @@
           "_params": {
             "imageSize": 50,
             "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/kamer-3-a-2000x1319.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/kamer%203-a-2000x1319.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#ccc",
+            "overlayOpacity": "1",
+            "overlayColor": "#cccccc",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -305,8 +308,8 @@
               "size": 250
             }
           },
-          "title": "Luxe Kamers en bungalows<div><br></div><div><span style=\"font-size: 3rem; line-height: 1.1;\">&nbsp;</span></div>",
-          "text": "<br><b>ALGEMEEN</b><br>Dasa Wana Resort beschikt over superieur rooms, bungalows, &nbsp;luxe bungalows, alle geschikt voor 2 personen en daarnaast een luxe bungalow, geschikt voor 2 of 4 personen. <br>Alle kamers en bungalows zijn comfortabel ingericht en voorzien van koelkast/minibar, koffiezetautomaat óf waterkoker en serviesgoed, TV en airco. Tevens heeft elke kamer/bungalow een of meerdere terrassen met zitje. Door de weelderige begroeiing van onze tuin, heeft u op elk terras voldoende privacy. <br>N.B. de inrichting en uitrusting van de kamers/bungalows zijn onderling verschillend.<br> <br>De kamers, de meeste bungalows en het restaurant zijn rondom het zwembad gesitueerd. Vanuit het restaurant heeft u een prachtig uitzicht op zwembad en tuin.<br><br><b>Familyroom</b><br>Twee kamers die naast elkaar in 1 bungalow zijn gesitueerd hebben een afsluitbare tussendeur. Room #5 is geschikt voor drie personen en room #6 voor 2 personen. Samen kunnen zij dus door een familie van 5 personen bewoond worden.",
+          "title": "Luxe Kamers en bungalows",
+          "text": "<b style=\"font-size: 1.07rem; line-height: 1.5;\">ALGEMEEN</b><br>Dasa Wana Resort beschikt over superieur rooms, bungalows, &nbsp;luxe bungalows, alle geschikt voor 2 personen en daarnaast een luxe bungalow, geschikt voor 2 of 4 personen. <br>Alle kamers en bungalows zijn comfortabel ingericht en voorzien van koelkast/minibar, koffiezetautomaat óf waterkoker en serviesgoed, TV en airco. Tevens heeft elke kamer/bungalow een of meerdere terrassen met zitje. Door de weelderige begroeiing van onze tuin, heeft u op elk terras voldoende privacy. <br>N.B. de inrichting en uitrusting van de kamers/bungalows zijn onderling verschillend.<br> <br>De kamers, de meeste bungalows en het restaurant zijn rondom het zwembad gesitueerd. Vanuit het restaurant heeft u een prachtig uitzicht op zwembad en tuin.<br><br><b>Familyroom</b><br>Twee kamers die naast elkaar in 1 bungalow zijn gesitueerd hebben een afsluitbare tussendeur. Room #5 is geschikt voor drie personen en room #6 voor 2 personen. Samen kunnen zij dus door een familie van 5 personen bewoond worden.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
@@ -330,13 +333,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#b8312f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#b8312f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#b8312f"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -348,16 +351,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#b8312f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -373,10 +376,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -400,7 +403,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"background-color: rgb(40, 40, 40); line-height: 1.5; display: inline !important;\"><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HOME<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br>EN VIDEO<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>FOTOS <br>RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK <br>NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br><br>CONTACT<br>EN ADRES<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><br><br>HOME<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br>EN VIDEO<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>FOTOS <br>RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK <br>NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br><br>CONTACT<br>EN ADRES<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
         },
         {
           "_tags": [
@@ -545,7 +548,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x40221.png",
+              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x40224.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -561,7 +564,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44422.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44425.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -577,7 +580,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/entrance-600x39623.jpg",
+              "src": "@PROJECT_PATH@/assets/images/entrance-600x39626.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -658,7 +661,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x40221.png",
+              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x40224.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -674,7 +677,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44422.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44425.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -690,7 +693,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/entrance-600x39623.jpg",
+              "src": "@PROJECT_PATH@/assets/images/entrance-600x39626.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -762,13 +765,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#b8312f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#b8312f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#b8312f"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -780,16 +783,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#b8312f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -805,10 +808,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -832,7 +835,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"background-color: rgb(40, 40, 40); line-height: 1.5; display: inline !important;\"><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HOME<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br>EN VIDEO<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>FOTOS <br>RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK <br>NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br><br>CONTACT<br>EN ADRES<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><br><br>HOME<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br>EN VIDEO<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>FOTOS <br>RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK <br>NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br><br>CONTACT<br>EN ADRES<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
         },
         {
           "_tags": [
@@ -929,10 +932,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-f",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -956,7 +959,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"background-color: rgb(40, 40, 40); line-height: 1.5; display: inline !important;\"><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HOME<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br>EN VIDEO<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>FOTOS <br>RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK <br>NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br><br>CONTACT<br>EN ADRES<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><br><br>HOME<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br>EN VIDEO<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>FOTOS <br>RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK <br>NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br><br>CONTACT<br>EN ADRES<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -1105,10 +1108,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-g",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -1132,7 +1135,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"background-color: rgb(40, 40, 40); line-height: 1.5; display: inline !important;\"><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HOME<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br>EN VIDEO<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>FOTOS <br>RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK <br>NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br><br>CONTACT<br>EN ADRES<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><br><br>HOME<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br>EN VIDEO<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>FOTOS <br>RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK <br>NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br><br>CONTACT<br>EN ADRES<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
         }
       ]
     },
@@ -1155,13 +1158,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#b8312f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#b8312f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#b8312f"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -1173,16 +1176,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#b8312f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1198,10 +1201,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -1225,7 +1228,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"background-color: rgb(40, 40, 40); line-height: 1.5; display: inline !important;\"><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HOME<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br>EN VIDEO<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>FOTOS <br>RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK <br>NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br><br>CONTACT<br>EN ADRES<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><br><br>HOME<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\"><br><br>INFORMATION<br>EN VIDEO<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\"><br><br>FOTOS <br>RESORT<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\"><br><br>BOOK <br>NOW!<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><br><br>CONTACT<br>EN ADRES<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
         }
       ]
     }
