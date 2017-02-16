@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dasawana ",
-    "currentPage": "bungalow 1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -156,7 +156,7 @@
             "showButtons": false
           },
           "title": "Dasa Wana Resort",
-          "text": "Dasa Wana Resort in Candidasa is een ..... etc",
+          "text": "Dasa Wana Resort is een rustig gelegen resort en ligt in het plaatsje Candidasa, in het zuiden-oosten van Bali en biedt u alles voor een geslaagd verblijf.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> "
         }
       ]
@@ -545,7 +545,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x40212.png",
+              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x40215.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -561,7 +561,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44413.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44416.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -577,7 +577,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/entrance-600x39614.jpg",
+              "src": "@PROJECT_PATH@/assets/images/entrance-600x39617.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -658,7 +658,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x40212.png",
+              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x40215.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -674,7 +674,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44413.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44416.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -690,7 +690,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/entrance-600x39614.jpg",
+              "src": "@PROJECT_PATH@/assets/images/entrance-600x39617.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
