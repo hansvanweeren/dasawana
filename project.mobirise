@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dasawana ",
-    "currentPage": "info.html",
+    "currentPage": "kamer 3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -217,7 +217,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a375!important"
             }
           },
           "_name": "ext.menu",
@@ -545,7 +545,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x4026.png",
+              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x4029.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -561,7 +561,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x4447.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44410.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -577,7 +577,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/entrance-600x3968.jpg",
+              "src": "@PROJECT_PATH@/assets/images/entrance-600x39611.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -658,7 +658,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x4026.png",
+              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x4029.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -674,7 +674,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x4447.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44410.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -690,7 +690,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/entrance-600x3968.jpg",
+              "src": "@PROJECT_PATH@/assets/images/entrance-600x39611.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1192,7 +1192,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a375!important"
             }
           },
           "_name": "ext.menu",
