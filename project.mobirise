@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dasawana ",
-    "currentPage": "info.html",
+    "currentPage": "bungalow 2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -58,7 +58,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -70,13 +72,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -95,10 +97,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#c1c1c1",
             "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#b8312f",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -180,13 +186,15 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#b8312f"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#b8312f"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -198,16 +206,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#b8312f",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -223,10 +231,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#c1c1c1",
             "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#b8312f",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -333,13 +345,15 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#b8312f"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#b8312f"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -351,16 +365,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#b8312f",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -376,10 +390,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#c1c1c1",
             "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#b8312f",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -417,7 +435,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -530,7 +548,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -548,7 +566,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x40224.png",
+              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x40233.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -564,7 +582,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44425.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44434.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -580,7 +598,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/entrance-600x39626.jpg",
+              "src": "@PROJECT_PATH@/assets/images/entrance-600x39635.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -643,7 +661,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -661,7 +679,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x40224.png",
+              "src": "@PROJECT_PATH@/assets/images/kamer-3-600x40233.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -677,7 +695,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44425.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bungalow-2-600x44434.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -693,7 +711,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.freetobook.com/affiliates/reservation.php?w_id=25832&amp;w_tkn=3FsUsk23Z61ZIGviCFgp9QvvdzMbzjJsenmMPldcoTA4DsHe3eXVH2RynaJi1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/entrance-600x39626.jpg",
+              "src": "@PROJECT_PATH@/assets/images/entrance-600x39635.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -765,13 +783,15 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#b8312f"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#b8312f"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -783,16 +803,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#b8312f",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -808,10 +828,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#c1c1c1",
             "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#b8312f",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -846,7 +870,7 @@
           "_params": {
             "paddingTop": "7",
             "paddingBottom": "0",
-            "bgColor": "#ffffff"
+            "bgColor": "#c1c1c1"
           },
           "text": "<blockquote><b>Contactgegevens</b></blockquote><blockquote><br></blockquote><blockquote>Voor informatie, prijsaanvragen, beschikbaarheid, reserveringen of definitieve boekingen:&nbsp;</blockquote><blockquote><br></blockquote><blockquote>Roy Kooymans</blockquote><blockquote>rmkooymans@gmail.com</blockquote><blockquote>+31 655713021</blockquote><blockquote>+31 165855396</blockquote><blockquote>U kunt ook rechtstreeks reserveren met het reserveringsformulier.</blockquote><blockquote>Ook kunt u contact opnemen met:&nbsp;</blockquote><blockquote>Dhr. Dick van Zanten</blockquote><blockquote>tel. nr. 030-2446014</blockquote><blockquote><br></blockquote><blockquote>Dhr. John van ´t Oever</blockquote><blockquote>Tel. nr. 010-4741581</blockquote><blockquote><p><br></p><p><br></p><p><br></p><p>Adresgegevens:&nbsp;</p></blockquote><blockquote>Dasa Wana Resort</blockquote><blockquote>Jl. Raya Candidasa</blockquote><blockquote>Candidasa/Karangasem</blockquote><blockquote>Tel. +62 363 41444</blockquote>"
         },
@@ -859,7 +883,7 @@
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "3",
-            "bgColor": "#fff",
+            "bgColor": "#c1c1c1",
             "googleMap": {
               "address": "dasa wana resort, jl raya candidasa",
               "placeId": "ChIJlfYwx9UO0i0RFl2_-ThA_bE",
@@ -895,7 +919,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -907,13 +933,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -932,10 +958,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-f",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#c1c1c1",
             "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#b8312f",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -1035,7 +1065,7 @@
             "spacing": "4",
             "showText": true,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#c1c1c1",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -1071,7 +1101,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -1083,13 +1115,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1108,10 +1140,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-g",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#c1c1c1",
             "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#b8312f",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -1158,13 +1194,15 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#b8312f"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#b8312f"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -1176,16 +1214,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#b8312f",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1201,10 +1239,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#c1c1c1",
             "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#b8312f",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
