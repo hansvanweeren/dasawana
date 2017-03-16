@@ -53,36 +53,36 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#c1c1c1"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#c1c1c1",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#343e57"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#414e6d!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#475577"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -96,23 +96,23 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-0",
+          "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#475577",
-            "fontSize": "0.9",
+            "bgColor": "#ffffff",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"line-height: 1.5; display: inline !important;\">HOME</a><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\" style=\"line-height: 1.5; display: inline !important;\">iNFORMATION &amp; VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\" style=\"line-height: 1.5; display: inline !important;\">PHOTOS RESORT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">CONTACT &amp; ADDRESS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"line-height: 1.5; display: inline !important;\">HOME</a><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\" style=\"line-height: 1.5; display: inline !important;\">iNFORMATION &amp; VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\" style=\"line-height: 1.5; display: inline !important;\">PHOTOS RESORT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">CONTACT AND ADDRESS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
         },
         {
           "_tags": [
@@ -207,13 +207,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#c1c1c1",
@@ -232,7 +232,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#475577",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Montserrat",
@@ -246,7 +246,7 @@
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -263,7 +263,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"line-height: 1.5; display: inline !important;\">HOME</a><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\" style=\"line-height: 1.5; display: inline !important;\">iNFORMATION &amp; VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\" style=\"line-height: 1.5; display: inline !important;\">PHOTOS RESORT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">CONTACT &amp; ADDRESS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"line-height: 1.5; display: inline !important;\">HOME</a><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\" style=\"line-height: 1.5; display: inline !important;\">iNFORMATION &amp; VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\" style=\"line-height: 1.5; display: inline !important;\">PHOTOS RESORT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">CONTACT AND ADDRESS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
         },
         {
           "_inherit": "header2",
@@ -288,7 +288,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/kamer%203-a-2000x1319.jpg",
-            "bgColor": "#c1c1c1",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -391,7 +391,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#475577",
+            "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {
               "name": "Montserrat",
@@ -405,7 +405,7 @@
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -422,7 +422,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"line-height: 1.5; display: inline !important;\">HOME</a><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\" style=\"line-height: 1.5; display: inline !important;\">iNFORMATION &amp; VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\" style=\"line-height: 1.5; display: inline !important;\">PHOTOS RESORT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">CONTACT &amp; ADDRESS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"line-height: 1.5; display: inline !important;\">HOME</a><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\" style=\"line-height: 1.5; display: inline !important;\">iNFORMATION &amp; VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\" style=\"line-height: 1.5; display: inline !important;\">PHOTOS RESORT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">CONTACT AND ADDRESS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
         },
         {
           "_tags": [
@@ -829,7 +829,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#475577",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Montserrat",
@@ -843,7 +843,7 @@
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -860,7 +860,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"line-height: 1.5; display: inline !important;\">HOME</a><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\" style=\"line-height: 1.5; display: inline !important;\">iNFORMATION &amp; VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\" style=\"line-height: 1.5; display: inline !important;\">PHOTOS RESORT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">CONTACT &amp; ADDRESS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"line-height: 1.5; display: inline !important;\">HOME</a><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\" style=\"line-height: 1.5; display: inline !important;\">iNFORMATION &amp; VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\" style=\"line-height: 1.5; display: inline !important;\">PHOTOS RESORT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">CONTACT AND ADDRESS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
         },
         {
           "_tags": [
@@ -959,7 +959,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-f",
           "_params": {
-            "bgColor": "#475577",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Montserrat",
@@ -973,7 +973,7 @@
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -990,7 +990,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"line-height: 1.5; display: inline !important;\">HOME</a><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\" style=\"line-height: 1.5; display: inline !important;\">iNFORMATION &amp; VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\" style=\"line-height: 1.5; display: inline !important;\">PHOTOS RESORT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">CONTACT &amp; ADDRESS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"line-height: 1.5; display: inline !important;\">HOME</a><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\" style=\"line-height: 1.5; display: inline !important;\">iNFORMATION &amp; VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\" style=\"line-height: 1.5; display: inline !important;\">PHOTOS RESORT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">CONTACT AND ADDRESS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -1141,7 +1141,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-g",
           "_params": {
-            "bgColor": "#475577",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Montserrat",
@@ -1155,7 +1155,7 @@
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1172,7 +1172,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"line-height: 1.5; display: inline !important;\">HOME</a><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\" style=\"line-height: 1.5; display: inline !important;\">iNFORMATION &amp; VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\" style=\"line-height: 1.5; display: inline !important;\">PHOTOS RESORT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">CONTACT &amp; ADDRESS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"line-height: 1.5; display: inline !important;\">HOME</a><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\" style=\"line-height: 1.5; display: inline !important;\">iNFORMATION &amp; VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\" style=\"line-height: 1.5; display: inline !important;\">PHOTOS RESORT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">CONTACT AND ADDRESS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
         }
       ]
     },
@@ -1215,13 +1215,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#c1c1c1",
@@ -1240,7 +1240,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#475577",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Montserrat",
@@ -1254,7 +1254,7 @@
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1271,7 +1271,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"line-height: 1.5; display: inline !important;\">HOME</a><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\" style=\"line-height: 1.5; display: inline !important;\">iNFORMATION &amp; VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\" style=\"line-height: 1.5; display: inline !important;\">PHOTOS RESORT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">CONTACT &amp; ADDRESS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" style=\"line-height: 1.5; display: inline !important;\">HOME</a><br><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"info.html\" style=\"line-height: 1.5; display: inline !important;\">iNFORMATION &amp; VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photos.html\" style=\"line-height: 1.5; display: inline !important;\">PHOTOS RESORT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\">CONTACT AND ADDRESS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" style=\"line-height: 1.5; display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><br></a></li>"
         }
       ]
     }
