@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dasawana ",
-    "currentPage": "index.html",
+    "currentPage": "kamer 3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -436,7 +436,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -804,13 +804,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#c1c1c1",
@@ -871,7 +871,7 @@
           "_params": {
             "paddingTop": "7",
             "paddingBottom": "0",
-            "bgColor": "#c1c1c1"
+            "bgColor": "#ffffff"
           },
           "text": "<blockquote><b>Contactgegevens</b></blockquote><blockquote><br></blockquote><blockquote>Voor informatie, prijsaanvragen, beschikbaarheid, reserveringen of definitieve boekingen:&nbsp;</blockquote><blockquote><br></blockquote><blockquote>Roy Kooymans</blockquote><blockquote>rmkooymans@gmail.com</blockquote><blockquote>+31 655713021</blockquote><blockquote>+31 165855396</blockquote><blockquote>U kunt ook rechtstreeks reserveren met het reserveringsformulier.</blockquote><blockquote>Ook kunt u contact opnemen met:&nbsp;</blockquote><blockquote>Dhr. Dick van Zanten</blockquote><blockquote>tel. nr. 030-2446014</blockquote><blockquote><br></blockquote><blockquote>Dhr. John van ´t Oever</blockquote><blockquote>Tel. nr. 010-4741581</blockquote><blockquote><p><br></p><p><br></p><p><br></p><p>Adresgegevens:&nbsp;</p></blockquote><blockquote>Dasa Wana Resort</blockquote><blockquote>Jl. Raya Candidasa</blockquote><blockquote>Candidasa/Karangasem</blockquote><blockquote>Tel. +62 363 41444</blockquote>"
         },
@@ -914,13 +914,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -934,16 +934,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1066,7 +1066,7 @@
             "spacing": "4",
             "showText": true,
             "filter": false,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#ffffff",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -1096,13 +1096,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -1116,16 +1116,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
