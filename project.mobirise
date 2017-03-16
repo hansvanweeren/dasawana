@@ -73,13 +73,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#efefef",
@@ -98,7 +98,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#475577",
             "fontSize": "0.9",
             "fontName": {
               "name": "Montserrat",
@@ -112,7 +112,7 @@
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -187,13 +187,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -216,7 +216,7 @@
               "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -232,7 +232,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#475577",
             "fontSize": "0.95",
             "fontName": {
               "name": "Montserrat",
@@ -246,7 +246,7 @@
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -346,36 +346,36 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -391,7 +391,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#475577",
             "fontSize": "0.9",
             "fontName": {
               "name": "Montserrat",
@@ -405,7 +405,7 @@
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -784,13 +784,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -813,7 +813,7 @@
               "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -829,7 +829,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#475577",
             "fontSize": "0.95",
             "fontName": {
               "name": "Montserrat",
@@ -843,7 +843,7 @@
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -959,7 +959,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-f",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#475577",
             "fontSize": "0.95",
             "fontName": {
               "name": "Montserrat",
@@ -973,7 +973,7 @@
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1141,7 +1141,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-g",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#475577",
             "fontSize": "0.95",
             "fontName": {
               "name": "Montserrat",
@@ -1155,7 +1155,7 @@
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1240,7 +1240,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#c1c1c1",
+            "bgColor": "#475577",
             "fontSize": "0.95",
             "fontName": {
               "name": "Montserrat",
@@ -1254,7 +1254,7 @@
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
