@@ -26,7 +26,8 @@
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -52,13 +53,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#c1c1c1"
+              "color": "#efefef"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c1c1c1"
+              "background-color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#c1c1c1",
+              "color": "#efefef",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -81,7 +82,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#c1c1c1",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -104,7 +105,7 @@
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#c1c1c1",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
