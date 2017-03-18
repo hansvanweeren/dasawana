@@ -72,7 +72,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">DASA WANA RESORT</span>",
           "text": "The quiet resort in Candidasa, Bali<br>Het rustige resort in Candidasa, Bali<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"/nederlands\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"www.hansvanweeren.esy.es/english\" data-toolbar=\"-mbrBtnMove\">ENGLISH<br></a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"/dasawana/nederlands\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"www.hansvanweeren.esy.es/english\" data-toolbar=\"-mbrBtnMove\">ENGLISH<br></a> "
         }
       ]
     }
