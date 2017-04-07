@@ -12,19 +12,23 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Lora",
+        "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
-    "versionFirst": "3.11.1",
-    "uniqCompNum": 1,
-    "versionPublish": "3.11.1",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 4,
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -43,36 +47,89 @@
           ],
           "_name": "header1",
           "_styles": {
-            ".btn": {
-              "font-size": "19px"
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "left",
+              "color": "#f97352"
             },
-            ".mbr-section-title SPAN": {
-              "color": "#c1c1c1"
+            ".mbr-section-lead": {
+              "text-align": "left"
             }
           },
           "_anchor": "header1-0",
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/xantra1-2000x2786.jpg",
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/candraqqoo-2000x2706.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0",
-            "overlayColor": "#000",
-            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#3d8eb9",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">DASA WANA RESORT</span>",
-          "text": "The quiet resort in Candidasa, Bali<br>Het rustige resort in Candidasa, Bali<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"dasawana/nederlands\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"www.hansvanweeren.esy.es/english\" data-toolbar=\"-mbrBtnMove\">ENGLISH<br></a> "
+          "title": "Dasa Wana Resort",
+          "text": "A quiet Resort in Candidasa on Bali.<br>Een rustig Resort in Candidasa op Bali",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"nederlands\\index.html\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"english/index.html\" data-toolbar=\"-mbrBtnMove\">ENGLISH<br></a> "
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "left"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dasawana-7a-2000x1830.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#3d8eb9",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Dasa Wana Resort",
+          "text": "The quiet Resort in Candidasa on Bali.<br>Het rustige Resort in Candidasa op Bali",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"@PROJECT_PATH@/nederlands/index.html\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"@PROJECT_PATH@/english/index.html\" data-toolbar=\"-mbrBtnMove\">ENGLISH<br></a> "
         }
       ]
     }
