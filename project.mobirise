@@ -79,7 +79,7 @@
           },
           "title": "Dasa Wana Resort",
           "text": "A quiet Resort in Candidasa on Bali.<br>Een rustig Resort in Candidasa op Bali",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"nederlands\\index.html\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"english/index.html\" data-toolbar=\"-mbrBtnMove\">ENGLISH<br></a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"nederlands\\index.html\" data-toolbar=\"-mbrBtnMove\">VOOR NEDERLANDS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"english/index.html\" data-toolbar=\"-mbrBtnMove\">FOR ENGLISH<br></a> "
         }
       ]
     },
